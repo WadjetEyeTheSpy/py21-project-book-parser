@@ -8,7 +8,7 @@
 Третий - вывод частотности персонажей по главам, страницам или другим обозначенным кускам текста.
 
 ## Архитектура бота
-![Схема бота]([https://github.com/WadjetEyeTheSpy/py21-project/blob/main/tgbotdiagram.drawio.png?raw=true](https://github.com/WadjetEyeTheSpy/py21-project-book-parser/blob/main/bot_scheme.png))
+![Схема бота]([https://github.com/WadjetEyeTheSpy/py21-project-book-parser/blob/main/bot_scheme.png])
 
 ## FAQ: что происходит на каждом из этапов
 На каждом этапе первым шагом пользователь кидает текст в формате .txt, кодировке UTF-8.
