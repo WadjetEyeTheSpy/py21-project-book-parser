@@ -1,0 +1,7 @@
+pandas==0.25.3
+PyGithub==1.55
+python_telegram_bot==12.4.2
+pyvis==0.2.0
+spacy==3.2.1
+telegram==0.0.1
+tqdm==4.62.3
