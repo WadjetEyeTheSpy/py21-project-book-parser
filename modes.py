@@ -5,7 +5,7 @@ import spacy
 from itertools import combinations
 
 class FileInfo:
-    nlp = spacy.load("en_core_web_sm")
+    nlp = spacy.load("en_core_web_lg")
 
 def name_finder(strocka):
     nlp = FileInfo.nlp
